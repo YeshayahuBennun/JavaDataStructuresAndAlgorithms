@@ -12,7 +12,7 @@ package Recursion;
 public class RecursionGCD {
     public static void main(String[] args) {
         RecursionGCD recursion = new RecursionGCD();
-        var result = recursion.gdc(-8, 4);
+        var result = recursion.gdc(8, 4);
 
         System.out.println(result);
 
