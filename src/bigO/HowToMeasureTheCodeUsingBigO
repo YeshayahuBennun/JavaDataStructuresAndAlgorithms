@@ -1,0 +1,9 @@
+Rule 1 O(1) - Any assignment statements and if statements are executed once regardless the size of the problem
+
+Rule 2 O(N)- A simple "for" loop from 0 to n (with no internal loops)
+
+Rule 3 O(n^2) - A nested loop o the same type takes quadratic time complexity
+
+Rule 4 O(log n) - A loop, in which the controlling parameter is divided by two at each step
+
+Rule 5 - When dealing with multiples statements, just add then up
